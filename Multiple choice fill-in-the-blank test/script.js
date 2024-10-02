@@ -10,7 +10,7 @@ const questions = [
         type: 'fill-in-the-blank',
         question: '苹果是一种常见的____。',
         answer: '水果',
-        image: '2.jpg'
+        image: '1.jpg'
     }
 ];
 
