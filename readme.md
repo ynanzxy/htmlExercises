@@ -59,14 +59,16 @@ h1 {
 const questions = [
     {
         type: 'multiple-choice',
-        question: '世界上面积最大的国家是？',
-        choices: ['中国', '美国', '俄罗斯', '加拿大'],
-        answer: '俄罗斯'
+        question: '以下哪个是猫的图片？',
+        choices: ['选项 A', '选项 B', '选项 C'],
+        answer: '选项 B',
+        image: '1.jpg'
     },
     {
         type: 'fill-in-the-blank',
-        question: '苹果是一种常见的____。',
-        answer: '水果'
+        question: '图片中的动物是一种____。',
+        answer: '猫',
+        image: '1.jpg'
     }
 ];
 ```
